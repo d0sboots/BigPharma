@@ -107,5 +107,4 @@ for i in range(0, len(family_order), 3):
       k += 1
     else:
       break
-
-print '</table>'
+  print '</table>'
